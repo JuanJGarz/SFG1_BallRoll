@@ -1,6 +1,7 @@
 #### Built in Unreal Engine 5
 
-A small sandbox made during Scripting for Games I at UT Dallas.
+The first small sandbox made during Scripting for Games I at UT Dallas.
+(June 2026)
 
 Skills Practiced:
 - Spawning Player Character
